@@ -85,7 +85,9 @@ O app surgiu como projeto acadêmico e está sendo evoluído para um produto rea
 
 **Matheus Cavalcanti Campos** — Backend (API REST, autenticação JWT, integração MongoDB)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ninjaskm-181717?style=flat&logo=github)](https://github.com/ninjaskm)
+[![GitHub](https://img.shields.io/badge/GitHub-Matheus%20Cavalcanti%20Campos-181717?style=flat&logo=github)](https://github.com/ninjaskm)
+
+> 🔒 Código-fonte privado — disponível mediante solicitação
 
 ---
 
