@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="120" alt="CarLens Logo"/>
+<img src="https://raw.githubusercontent.com/ninjaskm/carlens-app/main/logoRefeita.png" width="120" alt="CarLens Logo"/>
 
 # CarLens
 
